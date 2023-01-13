@@ -1,0 +1,48 @@
+﻿#navH {
+    font-family: arial
+}
+
+#nav {
+    text-align: center;
+}
+
+#nav li {
+       list-style: none;
+       display: inline-block;
+}
+
+#nav a {
+      color: #3297FD;
+      display: block;
+      font-family: arial;
+      text-transform: uppercase;
+      font-weight: bold;
+      margin: 0;
+      padding: 9px 18px 9px;
+      text-decoration: none;
+}
+
+    #nav a:hover {
+      background-color: #2D89E5;
+      color: #fff;
+    }
+
+.carousel-item {
+    height: 25rem;
+    background: #000;
+    
+}
+
+    .carousel-item img {
+    opacity: 0.5;
+       
+    }
+
+.btn-success {
+    background-color: #3297FD;
+}
+
+    .btn-success:hover {
+        background-color: #2D89E5;
+        color: #fff;
+    }
