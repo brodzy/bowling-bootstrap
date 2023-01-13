@@ -1,4 +1,6 @@
 # Bowling Bootstrap 
 
-Simple bowling home page utilizing bootstrap. <br> <br>
+Simple bowling home page utilizing bootstrap. <br>
+<br>
+<br>
 ![](Images/bowling_bootstrap.JPG)
